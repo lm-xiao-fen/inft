@@ -118,8 +118,16 @@ const ADMIN_PROFILES = [
     }
 ];
 ```
+
 ### 其他注意事项
 1. 确保 KV 命名空间绑定名称为 `PROFILES_KV`
 2. 修改 `worker.js` 中的密钥和管理员信息
 3. 自定义背景图片设置会保存在浏览器的 localStorage 中，仅对当前设备和浏览器生效
 4. 本项目仅供学习和个人使用，如需商用请联系作者
+
+## 联系方式
+[bilibili](Https://space.bilibili.com/3494372658121066)
+[email](G114514g@yeah.net)
+
+#### 许可证
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
