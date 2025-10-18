@@ -1,4 +1,5 @@
-# 人物介绍网站
+# inft
+一个基于cloudflare workers的多人介绍网站
 
 ## 项目介绍
 这是一个基于 Cloudflare Workers 的动态人物介绍网站，支持以下功能：
