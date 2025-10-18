@@ -1,0 +1,10 @@
+[
+  {
+    "id": "timestamp",
+    "name": "示例名字",
+    "avatar": "https://example.com/avatar.jpg",
+    "contact": "example@email.com",
+    "tags": ["标签1", "标签2"],
+    "achievements": "个人事迹描述"
+  }
+]
