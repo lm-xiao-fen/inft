@@ -53,7 +53,6 @@ curl -X POST https://your-worker.workers.dev/api/profiles \
 ]
 ```
 
-
 ## 功能演示
 ### 首页
 - 展示排行榜式的人物列表（头像、名字、标签）
@@ -128,7 +127,7 @@ const ADMIN_PROFILES = [
 ## 联系方式
 [bilibili](Https://space.bilibili.com/3494372658121066)
 
-[email](mailto:G114514g@yeah.net?subject=使用intt遇到的问题)
+[email](mailto:G114514g@yeah.net)  
 
 #### 许可证
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
