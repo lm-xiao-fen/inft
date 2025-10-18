@@ -74,7 +74,7 @@ curl -X POST https://your-worker.workers.dev/api/profiles \
 const CONFIG = {
     auth: {
         username: 'admin',
-        password: 'your-secure-password', // 请替换为安全的密码
+        password: 'password', // 请替换为安全的密码
         sessionDuration: 7200 // 会话有效期（秒）
     },
     api: {
