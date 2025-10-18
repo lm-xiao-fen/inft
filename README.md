@@ -92,7 +92,7 @@ const CONFIG = {
 
 ### 管理员展示页
 - 注意:管理员介绍是写死在workers中的，请在上传时就编辑好
-```json
+```bash         
 const ADMIN_PROFILES = [
     {
         id: 1,
